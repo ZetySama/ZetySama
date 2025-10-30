@@ -1,5 +1,6 @@
 # 🌙 About Me:
-Building things with code in Turkey
+For me, making games isn't just a passion it's a blast! I love every single part of the process, from writing code to diving into pixel art.
+But what's a game without a great vibe, right? That's why I'm also deeply interested in music and sound design. Basically, I've got the full toolkit to bring an idea to life from A to Z and give that world a soul!
 
 
 ## 🌐 Socials:

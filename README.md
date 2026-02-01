@@ -65,5 +65,5 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 
 ---
 <div align="center">
-  <small>Designed with 💜 and ☕ by Bahadır</small>
+  <small>Designed with 💜 and ☕ </small>
 </div>

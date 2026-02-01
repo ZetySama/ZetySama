@@ -50,10 +50,10 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 
 <div align="center">
   <a href="https://github.com/ZetySama">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="ZetySama's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&refresh=1" alt="ZetySama's GitHub Stats"/>
   </a>
   <a href="https://github.com/ZetySama">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6&refresh=1" alt="Top Languages"/>
   </a>
 </div>
 

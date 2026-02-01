@@ -55,13 +55,7 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetySama/ZetySama/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetySama/ZetySama/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZetySama/ZetySama/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 ---
 <div align="center">

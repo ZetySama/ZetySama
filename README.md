@@ -35,9 +35,9 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 | :--- | :--- | :--- |
 | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) | ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white) | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) | ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | 🎵 **Audacity / DAW** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | 🎨 **Pixel Art** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | 🎵 **Audacity / DAW** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 🎨 **Pixel Art** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
 
 <br/>
 
@@ -48,7 +48,10 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 
 ### 📊 Player Stats
 
-
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="ZetySama's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" alt="Top Languages"/>
+</div>
 
 <br/>
 

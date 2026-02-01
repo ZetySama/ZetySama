@@ -4,7 +4,7 @@
 
   <br/>
    
-  <h3> 👾 Level 20 Game Developer | Unity Wizard  </h3>
+  <h3> 👾 Level 20 Game Developer | Unity Wizard | Sound Scaper </h3>
    
   <br/>
 
@@ -17,15 +17,15 @@
 
 ### 🌙 About Me:
 
-> *"Making games isn't just a passion, it's a blast!"*
+> *"Game development isn't just a career; it's the art of crafting digital souls."*
 
-I view game development as the ultimate craft. I love every single part of the process, from writing clean code to diving into **pixel art**. 
+I approach game development as a holistic discipline where **logic meets creativity**. My expertise lies in bridging the gap between robust **software architecture** and immersive **visual storytelling**. 
 
-But what's a game without a great vibe? That's why I'm also deeply interested in **music and sound design**. Basically, I've got the full toolkit to bring an idea to life from A to Z and give that world a soul!
+From writing optimized, clean code to crafting detailed **pixel art**, I enjoy every step of the pipeline. I also believe that audio is the heartbeat of any game; that's why I integrate **sound design** to build atmospheres that truly resonate. I possess the technical and creative versatility to turn abstract concepts into living, breathing worlds.
 
-* 🔭 **Current Quest:** Developing a new indie title with unique mechanics.
-* 🎨 **Class:** Paladin of Code & Art.
-* ⚡ **Superpower:** Turning coffee into C# scripts.
+* 🔭 **Current Quest:** Engineering a new indie title with unique mechanics and atmospheric depth.
+* 🎨 **Class:** Paladin of Code & Art (Mastering both the script and the sprite).
+* ⚡ **Superpower:** Transmuting premium coffee into high-performance C# scripts.
 
 ---
 
@@ -65,5 +65,5 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 
 ---
 <div align="center">
-  <small>Designed with 💜 and ☕ </small>
+  <small>Designed with 💜 and ☕ by Bahadır</small>
 </div>

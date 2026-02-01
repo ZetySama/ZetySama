@@ -1,11 +1,11 @@
 <div align="center">
- 
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bahadır!;Game+Developer+User;Coding+some+magic...;Pixel+Art+Enthusiast" alt="Typing SVG" />
 
   <br/>
-  
+   
   <h3> 👾 Level 20 Game Developer | Unity Wizard | Sound Scaper </h3>
-  
+   
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahadır-sandıkcı-003a86287)
@@ -50,10 +50,10 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 
 <div align="center">
   <a href="https://github.com/ZetySama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="ZetySama's GitHub Stats"/>
   </a>
   <a href="https://github.com/ZetySama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" alt="Top Languages"/>
   </a>
 </div>
 

@@ -4,7 +4,7 @@
 
   <br/>
    
-  <h3> 👾 Level 20 Game Developer | Unity Wizard | Sound Scaper </h3>
+  <h3> 👾 Level 20 Game Developer | Unity Wizard  </h3>
    
   <br/>
 

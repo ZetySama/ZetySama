@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bahadır!;Game+Developer+User;Coding+some+magic...;Pixel+Art+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bahadır!;Game+Developer;Coding+some+magic...;Pixel+Art+Enthusiast" alt="Typing SVG" />
 
   <br/>
    
@@ -49,18 +49,14 @@ But what's a game without a great vibe? That's why I'm also deeply interested in
 ### 📊 Player Stats
 
 <div align="center">
-  <a href="https://github.com/ZetySama">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&refresh=1" alt="ZetySama's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/ZetySama">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6&refresh=1" alt="Top Languages"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="ZetySama's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/ZetySama/ZetySama/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+  <img src="https://raw.githubusercontent.com/ZetySama/ZetySama/output/github-contribution-grid-snake.svg" alt="snake contribution" />
 </div>
 
 ---

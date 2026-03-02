@@ -1,69 +1,75 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bahadır!;Game+Developer;Coding+some+magic...;Pixel+Art+Enthusiast" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bahadır!;Game+Developer;Software+Architecture+Enthusiast;Pixel+Art+&+Atmospheric+Design" alt="Typing SVG" />
 
   <br/>
-   
-  <h3> 👾 Level 20 Game Developer | Unity Wizard | Sound Scaper </h3>
-   
+
+  <h3> Game Developer | Unity Developer | Software Architecture Enthusiast </h3>
+
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahadır-sandıkcı-003a86287)
+
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baho842@hotmail.com)
 
 </div>
 
 ---
 
-### 🌙 About Me:
+### About Me
 
-> *"Game development isn't just a career; it's the art of crafting digital souls."*
+Game development, for me, is a multidisciplinary engineering process where structured software design meets artistic expression.
 
-I approach game development as a holistic discipline where **logic meets creativity**. My expertise lies in bridging the gap between robust **software architecture** and immersive **visual storytelling**. 
+I focus on building scalable and maintainable systems while delivering immersive gameplay experiences. My background in software architecture enables me to design clean, modular, and performance-oriented solutions within game projects.
 
-From writing optimized, clean code to crafting detailed **pixel art**, I enjoy every step of the pipeline. I also believe that audio is the heartbeat of any game; that's why I integrate **sound design** to build atmospheres that truly resonate. I possess the technical and creative versatility to turn abstract concepts into living, breathing worlds.
+Beyond programming, I work with pixel art and sound design to ensure a cohesive and atmospheric player experience. I aim to bridge technical robustness with creative depth.
 
-* 🔭 **Current Quest:** Engineering a new indie title with unique mechanics and atmospheric depth.
-* 🎨 **Class:** Paladin of Code & Art (Mastering both the script and the sprite).
-* ⚡ **Superpower:** Transmuting premium coffee into high-performance C# scripts.
+- 🔭 **Current Focus:** Developing an independent game project centered around unique mechanics and atmospheric storytelling.
+- 🎮 **Primary Engine:** Unity (C#)
+- 🏗️ **Interest Areas:** Software Architecture, Game Systems Design, Performance Optimization
 
 ---
 
-### 🎒 Inventory (Tech Stack)
+### Tech Stack
 
-| **Core Weapons (Engines & Languages)** | **Art & Sound (Creative)** | **Backend & Tools (Support)** |
+| **Game Development** | **Creative Tools** | **Backend & Tools** |
 | :--- | :--- | :--- |
-| ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) | ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white) | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) | ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | 🎵 **Audacity / DAW** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 🎨 **Pixel Art** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
+| Unity | Aseprite | .NET |
+| C# | Krita | Docker |
+| Java | Audacity / DAW | MySQL |
+| Python | Pixel Art | MongoDB |
+| C |  | Git |
 
 <br/>
 
-**Web Skills:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+**Web Technologies:** HTML5 • CSS3
 
 ---
 
-### 📊 Player Stats
+### GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="ZetySama's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" alt="Top Languages"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6"/>
+
 </div>
 
 <br/>
 
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetySama/ZetySama/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetySama/ZetySama/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZetySama/ZetySama/output/github-contribution-grid-snake.svg">
   </picture>
+
 </div>
 
 ---
+
 <div align="center">
-  <small>Designed with 💜 and ☕ by Bahadır</small>
+  <small>Designed and maintained by Bahadır Sandıkcı</small>
 </div>

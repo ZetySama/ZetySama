@@ -4,7 +4,7 @@
 
   <br/>
    
-  <h3> 👾 Level 20 Game Developer | Unity Wizard  </h3>
+  <h3> 👾 Level 20 Game Developer </h3>
    
   <br/>
 
@@ -47,10 +47,6 @@ From writing optimized, clean code to crafting detailed **pixel art**, I enjoy e
 
 ### 📊 Player Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZetySama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="ZetySama's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetySama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" alt="Top Languages"/>
-</div>
 
 <br/>
 

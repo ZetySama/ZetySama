@@ -10,7 +10,6 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahadır-sandıkcı-003a86287)
 
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baho842@hotmail.com)
 
 </div>
 
